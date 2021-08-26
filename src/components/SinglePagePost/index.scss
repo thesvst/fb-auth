@@ -1,0 +1,23 @@
+.postDetails {
+  margin-bottom: 5px;
+  .detailType {
+    margin-right: 5px;
+    font-weight: bold;
+  }
+  .detailValue {
+    color: #aaa;
+  }
+}
+.postTile {
+  width: 300px;
+  padding: 25px;
+  border-radius: 5px;
+  color: #fff;
+  text-decoration: none;
+  background: #263961;
+  margin-bottom: 15px;
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.05);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.05);
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.10);
+  transition: .25s ease all;
+}
